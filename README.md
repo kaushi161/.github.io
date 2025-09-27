@@ -97,7 +97,7 @@ It is built using only **HTML5 and CSS3**, fully responsive, and accessible. The
 
 ## **Live Demo**
 
-[Visit My Portfolio](https://github.com/kaushi161/.github.io.git)
+[Visit My Portfolio]( https://kaushi161.github.io/.github.io/)
 
 ---
 
